@@ -1,0 +1,50 @@
+[33m4c404d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Delete Wallet_N72BZHZWYZGTE7OH/keystore.jks
+[33m80a29dd[m Delete Wallet_N72BZHZWYZGTE7OH/truststore.jks
+[33m087bf56[m Add files via upload
+[33m1e53de6[m controller advisor
+[33m2e7ef1b[m Merge pull request #5 from cvalverd/codex/connect-microservice-to-config-server
+[33m0169f11[m[33m ([m[1;31morigin/codex/connect-microservice-to-config-server[m[33m)[m Configure service to consume config server
+[33m037c866[m Merge pull request #4 from cvalverd/codex/agregar-pruebas-unitarias-para-100%-de-cobertura-con-jacoco
+[33m103c426[m[33m ([m[1;31morigin/codex/agregar-pruebas-unitarias-para-100%-de-cobertura-con-jacoco[m[33m)[m Add Jacoco plugin and comprehensive tests
+[33m90529ca[m Update pom.xml
+[33mb14b414[m Update Dockerfile
+[33mbb7a945[m Update application.properties
+[33mafb63a5[m Update main.yml
+[33ma21e68d[m Update main.yml
+[33me4a5f65[m Update main.yml
+[33m0f30b5a[m Update StudentController.java
+[33m40f9c11[m cambio en pipeline
+[33m3d90673[m Update main.yml
+[33m2474f5e[m Update main.yml
+[33m6d876e9[m Update main.yml
+[33m7b00873[m Update main.yml
+[33mf192a43[m Update main.yml
+[33mf1be73d[m Update main.yml
+[33ma02fa8f[m Update main.yml
+[33mb408abc[m Update main.yml
+[33m138b4e3[m cambio en los 3
+[33m0e30a84[m cambio en sed
+[33m160fb0b[m asd
+[33m61674cb[m cambio en el pipeline
+[33m4009d27[m Agrego CRUD y uso de secretos en el application.properties
+[33m1294baf[m Update main.yml
+[33m89f2623[m Update main.yml
+[33m526c5d6[m Update main.yml
+[33m5492aa1[m Update main.yml
+[33m941769f[m Update main.yml
+[33m965d000[m Update main.yml
+[33m9217057[m Update main.yml
+[33m96749e2[m Update main.yml
+[33m4c9f867[m Update main.yml
+[33m525dbda[m Update main.yml
+[33mcbf91e0[m Update main.yml
+[33m72e5fd9[m Update main.yml
+[33m258ea0e[m Update main.yml
+[33m90be805[m Update main.yml
+[33mff375c6[m Create main.yml
+[33mda1ed4c[m Add files via upload
+[33mcbece72[m Add files via upload
+[33m9006ef5[m Add files via upload
+[33m6226065[m Add files via upload
+[33m34d1cf0[m Add files via upload
+[33mb888ddd[m first commit
